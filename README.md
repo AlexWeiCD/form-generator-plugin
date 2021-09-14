@@ -1,5 +1,5 @@
 ## 简介
-此项目将[form-generator的vscode-plugin分支](https://github.com/JakHuang/form-generator/tree/vscode-plugin)封装为一个vscode插件，拓展了[form-generator](https://github.com/JakHuang/form-generator)的文件写入能力。
+此项目将[form-generator的vscode-plugin分支](https://github.com/AlexWeiCD/form-generator/tree/vscode-plugin)封装为一个vscode插件，拓展了[form-generator](https://github.com/AlexWeiCD/form-generator)的文件写入能力。
 
 ![image](https://ae01.alicdn.com/kf/Ud91899f6a7374d88ad9456639b86010d7.gif)
 
@@ -12,7 +12,7 @@
 openFormGenerator.src
 ```
 可配置设计器远程网页链接。  
-比如：您从fork了[form-generator](https://github.com/JakHuang/form-generator)，并做了定制化的修改。  
+比如：您从fork了[form-generator](https://github.com/AlexWeiCD/form-generator)，并做了定制化的修改。  
 此时就可修改 openFormGenerator.src 为您部署的链接。
 
 ## 交流
